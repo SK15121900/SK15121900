@@ -13,7 +13,7 @@ IoT & embedded projects using ESP32/ESP8266, Drone and FPV hardware/software exp
 
 
 ## 🌐 Socials:
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?](https://www.facebook.com/sandeep.kumar.597369/directory_personal_details)logo=Facebook&logoColor=white)](https://facebook.com/Sandeep Kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s_a_n_d_y_1_2_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep Kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dronitech246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandy8969485773@gmail.com) 
+[![Facebook]([[https://img.shields.io/badge/Facebook-%231877F2.svg](https://img.shields.io/badge/Facebook-%231877F2.svg?)?](https://www.facebook.com/sandeep.kumar.597369/directory_personal_details)logo=Facebook&logoColor=white)](https://facebook.com/Sandeep Kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s_a_n_d_y_1_2_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandeep Kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@dronitech246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandy8969485773@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
