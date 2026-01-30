@@ -7,9 +7,12 @@ Email Me 👉 ✉️ **sandy8969485773@gmail.com**
 - 📫 **How to reach me:** sandy8969485773@gmail.com
 - 😄 **Pronouns:** Sandeep Kumar
 - ⚡ **Fun fact:** I love combining hardware + software to turn ideas into real-world systems
--
+
 # 💫 About Me:
-IoT & embedded projects using ESP32/ESP8266, Drone and FPV hardware/software experiments<br>IoT, robotics, and drone-related systems<br>Real-time sensor data processing, Embedded systems & flight controller tuning<br>Sql, Python ,Power bi<br>ESP32, Arduino, and sensors, Drones, FPV systems, and hardware integration<br>I love combining hardware + software to turn ideas into real-world systems
+I’m Sandeep Kumar, a passionate and curious developer with a strong interest in Machine Learning, IoT, and Embedded Systems. I enjoy building practical, real-world solutions by combining intelligent software with hardware systems.
+
+I work on IoT and embedded projects using ESP32/ESP8266, and I actively experiment with drone and FPV hardware/software systems. My interests also include robotics, real-time sensor data processing, and embedded system development, including flight controller tuning and optimization.
+
 
 
 ## 🌐 Socials:
